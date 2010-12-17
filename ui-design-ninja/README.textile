@@ -1,5 +1,7 @@
 h1. UI Design Ninja
 
+h2. "How to apply for this job.":https://github.com/FeeFighters/become-a-feefighter/blob/master/ui-design-ninja/how-to-apply.textile
+
 h2. Why you should join us:
 
 We’re a small startup working like mad to disrupt a multi-billion dollar financial industry and cut out tens of thousands of inefficient middle-men. The company is named FeeFighters, and we are like Kayak or LendingTree for business financial services.
@@ -20,5 +22,3 @@ You love Edward Tufte.  You live for the principle of "least effective differenc
 As the number 2 or 3 member of the development team at FeeFighters, you will have a key role in shaping the company through the design of its core products.  You'll have ownership of entire portions of the site, tackling both new-product development as well as the design of marketing pages and advertising collateral.  You'll get the chance to work with a team of real designer-developer pros and use the best tools available.
 
 If you're a Chicago native: great, we should grab some coffee!  However, we have a distributed development team... so we're already used to working with smart people from all over the world.  We're looking for the most talented designer we can find, so the only requirement is that you are a self-starter who is comfortable working remotely.
-
-h2. "How to apply for this job.":https://github.com/FeeFighters/become-a-feefighter/blob/master/ui-design-ninja/how-to-apply.textile
