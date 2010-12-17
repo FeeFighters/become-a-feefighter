@@ -1,0 +1,22 @@
+h2. Why you should join us:
+
+We’re a small startup working like mad to disrupt a multi-billion dollar financial industry and cut out tens of thousands of inefficient middle-men. The company is named FeeFighters, and we are like Kayak or LendingTree for business financial services.
+
+Business owners hate shopping for financial services, such as credit card processing, because the products are complicated, the shopping process takes a long time and the fine print makes it difficult to get a good deal.  At FeeFighters we make shopping for business financial services as easy as buying a plane ticket and save our customers lots of money.
+
+We have users, investors, partners and a product that our customers love.  We pay ourselves decent salaries, are generous with equity and we enjoy a fun and stimulating work environment.
+
+FeeFighters has an exciting future, and the team is growing.  We need to build out the development team to tackle some of these tough problems.  Developers at FeeFighters are key players, working hand-in-hand with Marketing and BD specialists.  Our CTO is a co-founder, and we have "builder"-focused culture... our designers & programmers are our product architects, and they are worth their weight in gold.
+
+
+h2. Our description of you:
+
+UI Development is hard... but not for you.  You bang out page designs by the dozen, and that's just a casual day's work.  More importantly, your designs are more than just photoshop mockups.  You live and breath HTML, CSS, and Javascript.  You get annoyed when people use plain ol' CSS, instead of Sass.  You can throw together a rails Erb template... and if backend programming isn't your cup of tea, you plow ahead regardless and mock up the functionality that you need.  You can tell when a 12pt font is too small, and you care about getting the div margins _just right_.  You know when to use a javascript singleton pattern.  You prefer jQuery over Prototype, but can dive in and work with either framework.
+
+You love Edward Tufte.  You live for the principle of "least effective difference", and relish the chance to bring clarity and beauty to the design of a data-rich product UI.  You're a loyal GitHub fan, or at least, you understand the power of distributed version control and can learn to work in the code alongside the rest of the development team.
+
+As the number 2 or 3 member of the development team at FeeFighters, you will have a key role in shaping the company through the design of its core products.  You'll have ownership of entire portions of the site, tackling both new-product development as well as the design of marketing pages and advertising collateral.  You'll get the chance to work with a team of real designer-developer pros and use the best tools available.
+
+If you're a Chicago native: great, we should grab some coffee!  However, we have a distributed development team... so we're already used to working with smart people from all over the world.  We're looking for the most talented designer we can find, so the only requirement is that you are a self-starter who is comfortable working remotely.
+
+h2. "How to apply for this job.":https://github.com/FeeFighters/become-a-feefighter/blob/master/ui-design-ninja/how-to-apply

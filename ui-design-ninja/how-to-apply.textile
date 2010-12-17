@@ -1,0 +1,20 @@
+h1. How To Apply
+
+If you think that you are the _perfect_ candidate for this job... "get in touch with us":mailto:josh@feefighters.com.  At the very least, send an email with your resume, some examples of your work, and some basic information about why this is the ideal job for you.
+
+h2. If you want to impress us even more:
+
+# Fork this repository
+# Add a directory with your name (see ./jane-doe for an example)
+# Add your resume into this directory
+# Make a directory called "portfolio", and put some examples of your work in there
+# Add whatever else you want to the repo... anything you think we might find interesting!
+# Commit your changes
+# Send a pull request!  (we'll keep your changes private, obviously)
+
+
+h2. Don't have a deep design portfolio or resume to show off?
+
+That's OK... We need good designers, and we don't care where they come from, what school they went to, etc.  Here's a couple of things that we would find really interesting:
+* Redesign our job description page!  We know, it is ugly & boring... can you improve it?  Give it a shot, explain your idea & goals, and time-box your work... tell us how long it took and why you did what you did.
+* Take a spin through our sign-up process, or pick another website that you think has a deep funnel.  What did you like?  What needs more UX work?  Where do you think the biggest conversion funnel problems are?  We'd love to know how you think about challenging UX design problems.
