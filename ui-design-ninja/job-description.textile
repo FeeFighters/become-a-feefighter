@@ -19,4 +19,4 @@ As the number 2 or 3 member of the development team at FeeFighters, you will hav
 
 If you're a Chicago native: great, we should grab some coffee!  However, we have a distributed development team... so we're already used to working with smart people from all over the world.  We're looking for the most talented designer we can find, so the only requirement is that you are a self-starter who is comfortable working remotely.
 
-h2. "How to apply for this job.":https://github.com/FeeFighters/become-a-feefighter/blob/master/ui-design-ninja/how-to-apply
+h2. "How to apply for this job.":https://github.com/FeeFighters/become-a-feefighter/blob/master/ui-design-ninja/how-to-apply.textile

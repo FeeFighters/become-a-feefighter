@@ -8,6 +8,6 @@ h2. Right now, we're actively looking for:
 
 _Click on a job for more details on how to apply..._
 
-h3. "UI Design Ninja":https://github.com/FeeFighters/become-a-feefighter/blob/master/ui-design-ninja/job-description
+h3. "UI Design Ninja":https://github.com/FeeFighters/become-a-feefighter/blob/master/ui-design-ninja/job-description.textile
 
 UI design is hard... but you make it look easy.  You bang out page designs by the dozen, and that's just a casual day's work.  More importantly, your designs are more than just photoshop mockups.  You live and breath HTML, CSS, and Javascript.  You love Edward Tufte.  You relish the chance to bring clarity and beauty to the design of a data-rich product UI.  As a key member of the FeeFighters design team, you'll have ownership of entire portions of the site, tackling both new-product development as well as the design of marketing pages and advertising collateral.
